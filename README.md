@@ -1,10 +1,12 @@
 Vulnerability Assessment Report for a Live Website
 
 Overview
+
 This project documents a passive vulnerability assessment performed on a live website (https://www.immuniweb.com/). The audit was conducted on 09 March 2026 by Mkhonta Nhlosenhle.
 The goal was to evaluate the security posture of the site using non-intrusive methods and provide actionable recommendations for remediation.
 
 Methodology
+
 The assessment relied on passive observation and configuration review using the following tools:
 - Nmap → Basic port exposure analysis
 - OWASP ZAP → Passive vulnerability scanning
