@@ -50,8 +50,10 @@ Ongoing
 Project Structure
 
 1.Vulnerability Assessment Report for a Live Website.pdf 
+
 2.README.md
   
 Conclusion
+
 This assessment highlights critical areas where the website can improve its security posture. Addressing high-priority issues first will significantly reduce risk exposure. Continuous monitoring and regular updates are recommended to maintain a strong security baseline.
 
